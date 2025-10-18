@@ -1,4 +1,4 @@
-![The term docs-as-code in black with a red line through 'as' and the word 'are' written above](../images/docs-are-code-banner.png)
+![The term docs-as-code in black with a red line through 'as' and the word 'are' written above](../images/docs-are-code.svg)
 
 Welcome! Glad you're here.
 
