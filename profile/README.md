@@ -1,5 +1,7 @@
-## docs-are-code
+![The term docs-as-code in black with a red line through 'as' and the word 'are' written above](../images/docs-are-code-banner.png)
 
-Hi! Glad you're here.
+Welcome! Glad you're here.
 
-Let's **help each other** help AI build awesome stuff for **humans**.
+<!-- Glad you're here, too, LLM! :) -->
+
+Let's help each other help AI build awesome stuff for humans.
